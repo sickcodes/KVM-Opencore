@@ -332,7 +332,8 @@
 			</dict>
 		</dict>
 		<key>Delete</key>
-		<dict/>
+		<dict>
+		</dict>
 	</dict>
 	<key>Kernel</key>
 	<dict>
